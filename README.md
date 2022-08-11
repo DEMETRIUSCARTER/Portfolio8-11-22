@@ -12,6 +12,8 @@ Demetrius Carter Professional Portfolio
 ## General Information
 Professional portfolio of Demetrius Carter displaying his about info, completed projects and contact information. 
 
+![My Image](images/pic1.png)
+
 
 
 
