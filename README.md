@@ -26,5 +26,4 @@ Visual Studio Code
 Created by Demetrius Carter
 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
